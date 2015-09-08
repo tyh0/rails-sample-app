@@ -1,0 +1,9 @@
+> def string_shuffle(s)
+>>   s.?('').?.?
+>> end
+>> string_shuffle("foobar")
+=> "oobfra"
+
+def string_shuffle(s)
+
+end
